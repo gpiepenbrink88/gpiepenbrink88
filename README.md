@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gpiepenbrink88
 - 👀 I’m interested in fullstack coding
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning powershell
 - 💞️ I’m looking to collaborate on any projects that will accelerate my learning process 
 
 
